@@ -9,7 +9,7 @@ Official Pytorch implementation of **Leveraging Diffusion Knowledge for Realisti
 [Xiangrui Zeng](),
 [Bolin Chen](https://scholar.google.com/citations?user=Z30kLzgAAAAJ&hl=zh-CN),
 [Peilin Chen](https://scholar.google.com.tw/citations?user=b9k152sAAAAJ&hl=en),
-[Yung-Hui Li](https://openreview.net/profile?id=~Yung-Hui_Li3)
+[Yung-Hui Li](https://openreview.net/profile?id=~Yung-Hui_Li3),
 [Shiqi Wang](https://scholar.google.com.tw/citations?user=Pr7s2VUAAAAJ&hl=en)
 
 

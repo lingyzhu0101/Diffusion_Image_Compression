@@ -5,7 +5,6 @@ Official Pytorch implementation of **Leveraging Diffusion Knowledge for Realisti
 
 
 [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN),
-[Wenhan Yang](https://scholar.google.com/citations?user=S8nAnakAAAAJ&hl=zh-CN),
 [Xiangrui Zeng](),
 [Bolin Chen](https://scholar.google.com/citations?user=Z30kLzgAAAAJ&hl=zh-CN),
 [Peilin Chen](https://scholar.google.com.tw/citations?user=b9k152sAAAAJ&hl=en),

@@ -9,11 +9,12 @@ By optimizing the rate-distortion-realism trade-off, generative image compressio
 
 ## TODO List
 This repository is still under active construction:
-- [ ] Release training and testing codes
+- [x] Release training and testing code
 - [ ] Release pretrained models
 - [ ] Clean the code
 
 ## Public Dataset
+
 
 ## Installation
 
